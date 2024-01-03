@@ -29,6 +29,7 @@
 
   <!-- hardware/qcom-caf -->
   <project path="hardware/google/gchips" name="android_hardware_google_gchips" groups="pdk" remote="lineage" />
+  <project path="hardware/google/graphics/common" name="android_hardware_google_graphics_common" groups="pdk" remote="lineage" />
   <project path="hardware/google/pixel" name="android_hardware_google_pixel" groups="pdk" remote="lineage" />
   <project path="hardware/google/pixel-sepolicy" name="android_hardware_google_pixel-sepolicy" groups="pdk" remote="lineage" />
   <project path="hardware/qcom-caf/bootctrl" name="android_hardware_qcom_bootctrl" groups="qcom,waipio-vendor" remote="lineage" revision="lineage-21.0-caf" />
