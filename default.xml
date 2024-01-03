@@ -1270,9 +1270,9 @@
   <!-- END of AOSP projects -->
 
   <!-- Include our special manifests -->
+  <include name="snippets/remove.xml" />
   <include name="snippets/bootleggers.xml" />
   <include name="snippets/external.xml" />
   <include name="snippets/pixel.xml" />
-  <include name="snippets/remove.xml" />
 
 </manifest>
