@@ -42,7 +42,7 @@
   </project>
 
   <!-- Device -->
-  <project path="device/bootleg/sepolicy" name="device_bootleg_sepolicy" remote="bootleggers-lab" />
+  <project path="device/bootleg/sepolicy" name="leddaz-stuff/android_device_bootleg_sepolicy" remote="github" revision="urubino" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="bootleggers-lab" groups="qcom,qssi" />
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="bootleggers-lab" groups="qcom,sdm660" revision="urubino-legacy-um" />
   <project path="device/qcom/sepolicy_vndr/legacy-um" name="device_qcom_sepolicy_vndr" remote="bootleggers-lab" groups="qcom,lahaina" revision="urubino-legacy-um" />
